@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt=".Net" width="26px" src="https://www.azureblue.io/content/images/2020/12/aspnetcore-logo.png" />
+<img align="left" alt="Asp.Net" width="26px" src="https://e7.pngegg.com/pngimages/673/239/png-clipart-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text.png" />
 <img align="left" alt=".Net" width="26px" src="https://services.assemblysoft.com/content/images/size/w2000/2020/11/1200px-.NET_Logo.svg.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
