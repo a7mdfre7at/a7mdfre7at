@@ -1,6 +1,6 @@
-### Hi there, I'm Ahmad 👋 
+## Hi there, I'm Ahmad 👋 
 
-## I'm a Husband, Father and Developer!!
+### I'm a Husband, Father and Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
