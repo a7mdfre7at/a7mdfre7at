@@ -35,14 +35,6 @@
 
 ---
 
-
-
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="a7mdfre7at's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=a7mdfre7at&show_icons=true&hide_border=true" />
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=a7mdfre7at&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [linkedin]: https://www.linkedin.com/in/a7md-fre7at
