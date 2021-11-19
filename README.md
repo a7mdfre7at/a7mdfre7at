@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" />][linkedin]
+[<img align="left" alt="Ahmad Al-Freihat | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" />][linkedin]
 
 <br />
 
@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="a7mdfre7at's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=a7mdfre7at&show_icons=true&hide_border=true" />
 
 </details>
 
