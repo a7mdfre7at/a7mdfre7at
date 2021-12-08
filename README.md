@@ -2,11 +2,11 @@
 
 ### I'm a Husband, Father and Developer!!
 
-- 🔭 I just launched my first .net library: [Masterly.FluentRegex][repo]!
+- 🔭 I just launched a .net library: [Autofac.DependenciesScanner][repo], get a look!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other repos authors
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: When I play a sniper game, I keep myself silent so that the enemy soldiers can't hear me.
 
 ### Connect with me:
 
@@ -42,4 +42,4 @@
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=a7mdfre7at&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [linkedin]: https://www.linkedin.com/in/a7md-fre7at
-[repo]:https://github.com/a7mdfre7at/Masterly.FluentRegex
+[repo]:https://github.com/a7mdfre7at/Masterly.Autofac.DependenciesScanner
