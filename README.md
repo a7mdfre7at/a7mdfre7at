@@ -11,6 +11,11 @@
 ### Connect with me:
 
 [<img align="left" alt="Ahmad Al-Freihat | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" />][linkedin]
+[<a href="mailto:ahmad_freihat@outlook.com" target="_blank">
+    <img align="left" alt="Ahmad Al-Freihat | Outlook" width="26px" src="https://mpng.subpng.com/20190614/elr/kisspng-microsoft-office-office-365-microsoft-corporation-ms-office-15-41-how-do-i-highlight-using-microsoft-5d0353a9aaf5a0.7804522315604991137003.jpg" />
+  </a>]
+
+
 
 <br />
 
