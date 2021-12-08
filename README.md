@@ -1,4 +1,4 @@
-## Hi there, I'm Ahmad 👋 
+# Hi there, I'm Ahmad <img src="https://raw.githubusercontent.com/a7mdfre7at/a7mdfre7at/master/Hi.gif" width="29px"> 
 ![](https://komarev.com/ghpvc/?username=a7mdfre7at)
 
 ### I'm a Husband, Father and Developer!!
