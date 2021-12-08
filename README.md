@@ -1,4 +1,5 @@
-## Hi there, I'm Ahmad 👋 ![](https://komarev.com/ghpvc/?username=a7mdfre7at)
+## Hi there, I'm Ahmad 👋 !
+[](https://komarev.com/ghpvc/?username=a7mdfre7at)
 
 ### I'm a Husband, Father and Developer!!
 
