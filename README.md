@@ -3,7 +3,7 @@
 
 ### I'm a Husband, Father and Developer!!
 
-- 🔭 I just launched a .net library: [Autofac.DependenciesScanner][repo], get a look!
+- 🔭 I just launched a .net library: [Masterly.Specification][repo], get a look!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other repos authors
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -43,4 +43,4 @@
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=a7mdfre7at&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [linkedin]: https://www.linkedin.com/in/a7md-fre7at
-[repo]:https://github.com/a7mdfre7at/Masterly.Autofac.DependenciesScanner
+[repo]:https://github.com/a7mdfre7at/Masterly.Specification
