@@ -6,7 +6,7 @@
 - 🔭 I just launched a .net library: [Masterly.Specification][repo], get a look!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other repos authors
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: When I play a sniper game, I keep myself silent so that the enemy soldiers can't hear me.
 
 ### Connect with me:
