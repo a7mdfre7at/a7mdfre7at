@@ -3,17 +3,17 @@
 
 ### I'm a Husband, Father and Developer!!
 
-- 🔭 I just launched a .net library: [Masterly.Specification][repo], get a look!
+- 🔭 I just launched a .net library: [Masterly.NonEmptyList][repo], get a look!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other repos authors
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: When I play a sniper game, I keep myself silent so that the enemy soldiers can't hear me.
 
 ### Connect with me:
 
 [<img align="left" alt="Ahmad Al-Freihat | LinkedIn" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-transparent-PNG.png" />][linkedin]
 <a href="mailto:ahmad_freihat@outlook.com" target="_blank">
-    <img align="left" alt="Ahmad Al-Freihat | Outlook" width="26px" src="https://mpng.subpng.com/20190614/elr/kisspng-microsoft-office-office-365-microsoft-corporation-ms-office-15-41-how-do-i-highlight-using-microsoft-5d0353a9aaf5a0.7804522315604991137003.jpg" />
+    <img align="left" alt="Ahmad Al-Freihat | Outlook" width="26px" src="https://w7.pngwing.com/pngs/705/107/png-transparent-microsoft-outlook-outlook-com-outlook-mobile-email-outlook-miscellaneous-blue-angle-thumbnail.png" />
   </a>
 
 
