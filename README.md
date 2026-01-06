@@ -149,22 +149,6 @@ current_mission: >
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/a7mdfre7at">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=a7mdfre7at&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/a7mdfre7at">
-    <img src="https://github-profile-trophy.vercel.app/?username=a7mdfre7at&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophy"/>
-  </a>
-</div>
-
 ---
 
 ## 🏗️ Architecture & Principles
