@@ -22,7 +22,6 @@
 ```yaml
 name: Ahmad Al-Freihat
 location: Jordan 🇯🇴
-company: Dalil Tech
 
 roles:
   - Software Engineer
